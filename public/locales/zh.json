@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "welcome": "欢迎来到我们的网站！",
   "generate": "生成",
@@ -5,3 +6,12 @@
   "featureOverview": "功能简介：",
   "featureDescription": "这是一个提供随机圣经经文的网站。点击生成按钮，获取一段启发性的经文，并与朋友分享。同时，您可以通过 Twitter、Facebook 或 Instagram 分享您喜欢的经文。"
 }
+=======
+{
+  "welcome": "欢迎来到我们的网站！",
+  "generate": "生成",
+  "share": "分享",
+  "featureOverview": "功能简介：",
+  "featureDescription": "这是一个提供随机圣经经文的网站。点击生成按钮，获取一段启发性的经文，并与朋友分享。同时，您可以通过 Twitter、Facebook 或 Instagram 分享您喜欢的经文。"
+}
+>>>>>>> acbbb6be9ebab94b5a3e7f2d2b866ca5577bc66f
